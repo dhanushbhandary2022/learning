@@ -1,2 +1,4 @@
-Main branch - learning
-sub branch - basic
+Repository - learning
+
+Branches - main 
+	 - basic
